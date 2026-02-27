@@ -1,0 +1,27 @@
+{
+  "name": "jlifyio",
+  "owner": {
+    "name": "jlifyio"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by jlifyio"
+  },
+  "plugins": [
+    {
+      "name": "wyx",
+      "source": {
+        "source": "github",
+        "repo": "jlifyio/wyx"
+      },
+      "description": "Architecture guardrails — automatically injects module boundaries into Claude's context on every write",
+      "author": {
+        "name": "jlifyio"
+      },
+      "repository": "https://github.com/jlifyio/wyx",
+      "license": "MIT",
+      "keywords": ["architecture", "guardrails", "concept-specs", "boundary-checking", "drift-detection", "module-boundaries"],
+      "category": "development",
+      "tags": ["architecture", "code-quality", "specifications", "module-boundaries"]
+    }
+  ]
+}
