@@ -13,13 +13,13 @@ Claude Code plugin marketplace by [jlifyio](https://github.com/jlifyio).
 Add this marketplace to your Claude Code configuration:
 
 ```bash
-claude plugin add jlifyio/claude-plugins
+claude plugin marketplace add jlifyio/claude-plugins
 ```
 
 Then install individual plugins:
 
 ```bash
-claude plugin install wyx
+claude plugin install wyx@jlifyio
 ```
 
 ## Structure
