@@ -6,7 +6,7 @@ Claude Code plugin marketplace by [jlifyio](https://github.com/jlifyio).
 
 | Plugin | Description | Category |
 |--------|-------------|----------|
-| [wyx](https://github.com/jlifyio/wyx) | Architecture guardrails — automatically injects module boundaries into Claude's context on every write | Development |
+| [wyx](https://github.com/jlifyio/wyx) | Architecture guardrails for Claude Code — automatically injects module boundaries into Claude's context on every write | Development |
 
 ## Installation
 
