@@ -13,15 +13,15 @@
         "source": "github",
         "repo": "jlifyio/wyx"
       },
-      "description": "Architecture guardrails — automatically injects module boundaries into Claude's context on every write",
+      "description": "Architecture guardrails for Claude Code — automatically injects module boundaries into Claude's context on every write",
       "author": {
         "name": "jlifyio"
       },
       "repository": "https://github.com/jlifyio/wyx",
       "license": "MIT",
-      "keywords": ["architecture", "guardrails", "concept-specs", "boundary-checking", "drift-detection", "module-boundaries"],
+      "keywords": ["architecture", "guardrails", "module-boundaries", "context-injection", "hooks", "concept-spec", "drift-detection", "claude-code"],
       "category": "development",
-      "tags": ["architecture", "code-quality", "specifications", "module-boundaries"]
+      "tags": ["architecture", "guardrails", "boundaries", "hooks"]
     }
   ]
 }
