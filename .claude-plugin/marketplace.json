@@ -1,10 +1,9 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "jlifyio",
+  "description": "Claude Code plugins by jlifyio",
   "owner": {
     "name": "jlifyio"
-  },
-  "metadata": {
-    "description": "Claude Code plugins by jlifyio"
   },
   "plugins": [
     {
