@@ -1,0 +1,7 @@
+# Claude Code session tooling — not part of the marketplace
+.remember/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
