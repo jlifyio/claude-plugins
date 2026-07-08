@@ -12,7 +12,7 @@
         "source": "github",
         "repo": "jlifyio/wyx"
       },
-      "description": "Architecture guardrails for Claude Code — automatically injects module boundaries into Claude's context on every write",
+      "description": "Architecture guardrails for Claude Code — automatically injects declared module boundaries into Claude's context when it edits files near a spec",
       "author": {
         "name": "jlifyio"
       },
